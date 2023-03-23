@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALtug</h1>
 <h3 align="center">Jr. Developer</h3>
+<h1 align="center">Looking for a BOOTCAMP</h1>
 
 - 🌱 I’m currently learning **React.JS**
 
